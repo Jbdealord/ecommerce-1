@@ -138,6 +138,7 @@ requests==2.21.0
 responses==0.5.1
 rest-condition==1.0.3     # via edx-drf-extensions
 rjsmin==1.0.12            # via django-compressor
+rules==2.0.1
 sailthru-client==2.2.3
 selenium==3.4.3
 semantic-version==2.6.0   # via edx-drf-extensions
